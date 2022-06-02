@@ -4,7 +4,7 @@
 <a>
 <div align="center">
 
-# Hoshi_bot
+# ほしのすみか bot
 
 </div>
 <p align="center">
@@ -12,8 +12,9 @@
 <img src="https://img.shields.io/badge/python-3.9.0-blue" alt="python">
 <img src="https://img.shields.io/badge/nonebot2-v2.0.0--beta.3-green" alt="nonebot2"></a>
 </p>
-自用ほしのすみか\_bot，提供 qq 群常用查询功能
+自用ほしのすみか bot，为 qq 群提供常用查询功能
 
+- 天气
 - ff14 物品查询
 - Destiny2 日报
 - Destiny2 周报
