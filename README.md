@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <img src="http://101.43.165.10/wp-content/uploads/2022/06/QQ图片20220602203041.jpg" width="200" height="200" alt="nonebot"></p>
+  <img src="https://www.kamuxiy.cn/usr/uploads/2022/06/QQ图片20220602203041.jpg" width="200" height="200" alt="nonebot"></p>
 <a>
 <div align="center">
 
